@@ -11,7 +11,7 @@ body {
     border: 1px solid black;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
-    background: url("/images/SHSU_Logo.png") right repeat-y;
+    background: url("/images/SH_orange.png") right repeat-y;
     background-attachment: fixed;
 }
 a:focus, a:hover{
