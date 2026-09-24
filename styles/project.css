@@ -45,7 +45,7 @@ article {
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
-
+    border-top: 2px solid maroon;
 }
 article h3 {
     column-span: all;
@@ -72,5 +72,4 @@ aside {
 footer {
     clear: both;
     border-top: 2px solid maroon;
-    border-bottom: 2px solid maroon;
 }
