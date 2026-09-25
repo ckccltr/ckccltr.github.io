@@ -47,6 +47,7 @@ article {
     margin-left: 2em;
 }
 article h3 {
+    clear: both;
     column-span: all;
     border-top: 2px solid maroon;
 }
