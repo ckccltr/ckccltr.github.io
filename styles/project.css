@@ -76,6 +76,7 @@ footer {
     border-top: 2px solid maroon;
     text-align: center;
 }
+
 p.fixed {
     position: fixed;
     width: auto;
