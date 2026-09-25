@@ -36,6 +36,7 @@ header img{
 }
 header{
     border-bottom: 2px solid maroon;
+    padding: 1em;
 }
 .shadow{
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
