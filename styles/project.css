@@ -34,6 +34,9 @@ header img{
     float: left;
     margin-left: 2em;
 }
+header{
+    border-bottom: 2px solid maroon;
+}
 .shadow{
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
@@ -47,9 +50,7 @@ article {
     margin-left: 2em;
 }
 article h3 {
-    clear: both;
     column-span: all;
-    border-top: 2px solid maroon;
 }
 article img {
     float: left;
