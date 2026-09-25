@@ -81,6 +81,6 @@ p.fixed {
     right: 20px;
     bottom: 41em;
     background-color: lightgreen;
-    border: darkgreen;
+    border: 2px solid darkgreen;
     padding: 1em;
 }
