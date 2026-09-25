@@ -76,6 +76,7 @@ footer {
     border-top: 2px solid maroon;
 }
 p.fixed {
+    position: fixed;
     width: auto;
     float: right;
     background-color: lightgreen;
