@@ -78,7 +78,7 @@ footer {
 p.fixed {
     position: fixed;
     width: auto;
-    float: right;
+    right: 20px;
     background-color: lightgreen;
     padding: 1em;
 }
