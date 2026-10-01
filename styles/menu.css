@@ -20,3 +20,6 @@ aside ol{
 aside ul{
     list-style: square;
 }
+article h1{
+    clear: left;
+}
