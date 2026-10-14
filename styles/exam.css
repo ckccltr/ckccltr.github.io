@@ -45,6 +45,9 @@ article h2 {
     column-span: all;
     color: darkgreen;
 }
+article h3{
+    color: darkgreen
+}
 article img {
     float: left;
     margin-right: 1em;
