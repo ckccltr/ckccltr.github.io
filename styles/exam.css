@@ -43,6 +43,7 @@ article {
 }
 article h2 {
     column-span: all;
+    color: darkgreen;
 }
 article img {
     float: left;
