@@ -41,7 +41,7 @@ article {
     column-gap: 2em;
     margin-left: 2em;
 }
-article h3 {
+article h2 {
     column-span: all;
 }
 article img {
