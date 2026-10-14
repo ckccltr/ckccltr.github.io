@@ -82,7 +82,7 @@ p.fixed {
     list-style-type: none; 
     margin: 0;
     padding: 0;
-    display: flex;
+    display: block;
 }
 #nav_menu ul li { 
     
@@ -91,7 +91,7 @@ p.fixed {
     text-align: center;
     display: block;
     width: 175px;
-    padding: 1em 0; /* padding above and below a
+    padding: 0.8em 0; /* padding above and below a
     elements */
     text-decoration: none;
     background-color: darkgreen;
