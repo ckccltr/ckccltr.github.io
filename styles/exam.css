@@ -82,7 +82,7 @@ p.fixed {
     list-style-type: none; 
     margin: 0;
     padding: 0;
-    display: block;
+    display: flex;
 }
 #nav_menu ul li { 
     
