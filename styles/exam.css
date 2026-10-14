@@ -78,8 +78,15 @@ p.fixed {
     border: 2px solid darkgreen;
     padding: 1em;
 }
-#nav_menu ul { list-style-type: none; }
-#nav_menu ul li { float: left; }
+#nav_menu ul { 
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+#nav_menu ul li { 
+    
+}
 #nav_menu ul li a {
     text-align: center;
     display: block;
@@ -87,7 +94,7 @@ p.fixed {
     padding: 1em 0; /* padding above and below a
     elements */
     text-decoration: none;
-    background-color: blue;
+    background-color: darkgreen;
     color: white;
     font-weight: bold;
     border-right: 2px solid white; }
