@@ -75,6 +75,7 @@ footer {
 ol.fixed {
     position: fixed;
     width: auto;
+    right: 80px;
     bottom: 40em;
     background-color: lightgreen;
     border: 2px solid darkgreen;
