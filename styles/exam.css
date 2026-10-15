@@ -73,7 +73,7 @@ footer {
     text-align: center;
 }
 
-p.fixed {
+ol.fixed {
     position: fixed;
     width: auto;
     right: 20px;
