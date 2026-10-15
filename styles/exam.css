@@ -57,9 +57,9 @@ article p::first-letter{
     font-size: 3em;
     font-weight: bold;
     font-style: italic;
-    color: lightgreen;
+    color: purple;
+    font-family: cursive;
 }
-.green {color: purple}
 aside {
     position: fixed;
     width: auto;
