@@ -1,4 +1,3 @@
-@import url('https://googleapis.com');
 html{
     background-image: linear-gradient(to left, white 0%, lightblue 100%);
 }
@@ -57,7 +56,7 @@ article img {
 }
 article p::first-letter{
     font-size: 3em;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'sans-serif', script;
     font-weight: bold;
     font-style: italic;
     color: purple;
