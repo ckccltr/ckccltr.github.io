@@ -69,6 +69,9 @@ aside {
     border: 2px solid darkgreen;
     padding: 2em;
 }
+aside ol{
+    list-style-type: upper-roman;
+}
 aside .page-pointers{
     display: block;
     margin-bottom: 8px;
