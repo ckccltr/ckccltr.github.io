@@ -56,10 +56,10 @@ article img {
 }
 article p::first-letter{
     font-size: 3em;
+    font-family: 'Great Vibes', 'Snell Roundhand', 'Apple Chancery', cursive;
     font-weight: bold;
     font-style: italic;
     color: purple;
-    font-family: cursive;
 }
 aside {
     position: fixed;
