@@ -70,7 +70,7 @@ aside {
     padding: 2em;
 }
 aside div{
-    
+    margin-bottom: 10px;
 }
 footer {
     clear: both;
