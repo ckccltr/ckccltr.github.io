@@ -60,15 +60,14 @@ article p::first-letter{
     color: lightgreen;
 }
 .green {color: purple}
-
 aside {
     position: fixed;
     width: auto;
-    float: right;
+    right: 5em;
     bottom: 40em;
     background-color: lightgreen;
     border: 2px solid darkgreen;
-    padding: 3em;
+    padding: 2em;
 }
 footer {
     clear: both;
