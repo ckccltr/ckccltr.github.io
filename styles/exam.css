@@ -62,10 +62,13 @@ article p::first-letter{
 .green {color: purple}
 
 aside {
-    width: 20%;
+    position: fixed;
+    width: auto;
     float: right;
-    background-color: #ffebc6;
-    padding: 1em;
+    bottom: 40em;
+    background-color: lightgreen;
+    border: 2px solid darkgreen;
+    padding: 3em;
 }
 footer {
     clear: both;
@@ -73,13 +76,7 @@ footer {
     text-align: center;
 }
 ol.fixed {
-    position: fixed;
-    width: auto;
-    right: 80px;
-    bottom: 40em;
-    background-color: lightgreen;
-    border: 2px solid darkgreen;
-    padding: 1em;
+    
 }
 #nav_menu ul { 
     list-style-type: none; 
