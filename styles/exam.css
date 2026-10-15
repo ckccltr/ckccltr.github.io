@@ -62,7 +62,7 @@ article p::first-letter{
     font-family: cursive;
 }
 aside {
-    position: fixed auto;
+    position: fixed;
     margin: auto;
     width: auto;
     right: 5em;
