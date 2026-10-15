@@ -69,9 +69,8 @@ aside {
     border: 2px solid darkgreen;
     padding: 2em;
 }
-aside .page-pointers{
-    display: block;
-    margin-bottom: 8px;
+aside div{
+    
 }
 footer {
     clear: both;
