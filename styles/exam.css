@@ -46,7 +46,8 @@ article h2 {
     color: darkgreen;
 }
 article h3{
-    color: darkgreen
+    color: darkgreen;
+    font-weight: bold;
 }
 article img {
     float: left;
