@@ -78,17 +78,11 @@ footer {
     border-top: 2px solid darkgreen;
     text-align: center;
 }
-ol.fixed {
-    
-}
 #nav_menu ul { 
     list-style-type: none; 
     margin: 0;
     padding: 0;
     display: flex;
-}
-#nav_menu ul li { 
-    
 }
 #nav_menu ul li a {
     text-align: center;
