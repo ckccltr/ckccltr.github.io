@@ -84,6 +84,12 @@ table.third th {
 
     background-color: lightgreen; 
 
+    padding: 0.7em;   
+
+    vertical-align: middle; 
+
+    border-bottom: 2px solid red;
+
 } 
 
 table.third caption{
@@ -91,20 +97,10 @@ table.third caption{
     padding: 0.7em;
 
     background-color: lightgreen;
-    
+
     border-top: 2px solid red;
     
 }
-
-table.third th { 
-
-    padding: 0.7em;   
-
-    vertical-align: middle; 
-
-    border-bottom: 2px solid red; 
-
-} 
 
 table.third thead tr:first-child{      
 
