@@ -87,8 +87,11 @@ table.third th {
 } 
 
 table.third caption{
+    
+    padding: 0.7em;
 
     background-color: lightgreen;
+    
     border-top: 2px solid red;
     
 }
