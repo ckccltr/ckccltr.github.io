@@ -87,7 +87,9 @@ table.third th {
 } 
 
 table.third caption{
+
     background-color: lightgreen;
+    border-top: 2px solid red;
     
 }
 
