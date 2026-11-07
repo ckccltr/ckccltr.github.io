@@ -74,7 +74,9 @@ table.third {
 
     border-collapse: collapse;  
 
-    border: 2px solid red;    
+    border-bottom: 2px solid red; 
+
+    border-top: 2px solid red; 
 
     caption-side: top; 
 
@@ -96,6 +98,15 @@ table.third th {
 
 } 
 
+table.third td{ 
+
+    padding: 0.7em;   
+
+    vertical-align: middle; 
+
+
+} 
+
 table.third caption{
     
     padding: 0.7em;
@@ -106,8 +117,3 @@ table.third caption{
     
 }
 
-table.third thead tr:first-child{      
-
-    border-bottom: 2px solid red; 
-
-} 
