@@ -80,6 +80,10 @@ table.third {
 
 } 
 
+table.third caption{
+    font-weight: bold;
+}
+
 table.third th { 
 
     background-color: lightgreen; 
