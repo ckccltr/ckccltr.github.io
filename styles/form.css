@@ -84,6 +84,9 @@ textarea {
 
 } 
 
-#button, #reset{
+.submit_membership{
     text-align: center;
+}
+.submit_membership legend{
+    text-align: left;
 }
