@@ -84,13 +84,9 @@ textarea {
 
 } 
 
-#submit{
+#button, #reset{
     text-align: center;
     padding: 20px;
-
-}
-#button, #reset { 
-
     width: 10em; 
 
-} 
+}
