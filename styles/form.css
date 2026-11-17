@@ -84,7 +84,6 @@ textarea {
 
 } 
 
-.submit_membership{
+#button, #reset{
     text-align: center;
 }
-
