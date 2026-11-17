@@ -88,10 +88,6 @@ textarea {
     text-align: center;
 }
 
-#button, #reset{
-
-    text-align: center;
-    padding: 20px;
-
-
+#submit_membership legend {
+    text-align: left;
 }
