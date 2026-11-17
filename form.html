@@ -109,13 +109,11 @@
 
             <label for="tickets_for_guests">Tickets for Guests:</label> 
 
-            <input type="text" name="zip" id="zip" required 
+            <input type="number" name="guests" id="tickets_for_guests" required 
 
-                placeholder="5 or 9 digits"  
-
-                pattern="^\d{5}(-\d{4})?$" 
-
-                title="Either 5 or 9 digits" 
+                maxlength="4"
+                minlength="1"
+                 
 
                 autocomplete="on"><br> 
 
