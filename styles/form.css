@@ -90,3 +90,7 @@ textarea {
 .submit_membership legend{
     text-align: left;
 }
+
+#button, #reset{
+    width: 10em;
+}
